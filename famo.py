@@ -2,7 +2,7 @@ import torch
 import torch.nn.functional as F
 from typing import Dict, List, Tuple, Union
 
-
+# Helper functions for FAMO, adapted from
 class FAMO:
     """
     Fast Adaptive Multitask Optimization.
